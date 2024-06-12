@@ -11,4 +11,4 @@ To facilitate the advancement of this task, we construct a high-quality benchmar
 Based on our constructed \ourdata{}, we employ multiple advanced MLLMs to conduct extensive experiments and detailed analyses, demonstrating that existing MLLMs do not yet have enough capability to understand and reason the linguistic information from visual data.
 We believe our proposed benchmark and interesting discoveries will encourage the community to attach importance to the intelligence of MLLMs directly associating language from vision, to give MLLMs more comprehensive vision-language understanding ability.
 
-![introductionimage](/images/Introduction.jpg "Illustration of Emoji2Idiom")
+![introductionimage](/images/Introduction.png "Illustration of Emoji2Idiom")
