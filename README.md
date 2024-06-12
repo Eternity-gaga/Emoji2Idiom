@@ -36,4 +36,3 @@ Our follows the data collection pipeline, which is divided into two stages, raw 
 We evaluate MLLM on our Emoji2Idiom and provide a brief case study here. These results indicating that our Emoji2Idiom is really a challenging benchmark and can encourage the future research!
 
 ![casestudy](/Images/caase.png "casestudy")
-a
