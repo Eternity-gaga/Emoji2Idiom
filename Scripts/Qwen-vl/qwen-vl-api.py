@@ -7,8 +7,8 @@ def call_with_local_file():
        windows file schema: file://D:/images/abc.png
     """
 
-    local_file_path = 'file:///data/kuangjy/MM_symbol_evaluation/emoji/chengyu_4/1.jpg'
-    example_image_1 = 'file:///data/kuangjy/MM_symbol_evaluation/emoji/chengyu_4/300.jpg'
+    local_file_path = 'file'
+    example_image_1 = 'filepath'
 
     messages_1 = [{
         'role': 'system',
