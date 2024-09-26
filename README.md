@@ -12,8 +12,8 @@
 Specifically, we first propose the task of translating Emojis in images to corresponding idioms, thereby challenging the ability of Multimodal Large Language Models (MLLMs) to (1) understand the semantic correlation between language and emojis, and (2) reason the intricate linguistic meaning from the emojis in images.
 
 
-💯 To facilitate the advancement of this task, we construct a high-quality benchmark (\ourdata{}) following the process of automatic model generation and human manual filtering. 
-Based on our constructed \ourdata{}, we employ multiple advanced MLLMs to conduct extensive experiments and detailed analyses, demonstrating that existing MLLMs do not yet have enough capability to understand and reason the linguistic information from visual data.
+💯 To facilitate the advancement of this task, we construct a high-quality benchmark (Emoji2Idiom) following the process of automatic model generation and human manual filtering. 
+Based on our constructed Emoji2Idiom, we employ multiple advanced MLLMs to conduct extensive experiments and detailed analyses, demonstrating that existing MLLMs do not yet have enough capability to understand and reason the linguistic information from visual data.
 We believe our proposed benchmark and interesting discoveries will encourage the community to attach importance to the intelligence of MLLMs directly associating language from vision, to give MLLMs more comprehensive vision-language understanding ability.
 
 ![Illustration of Emoji2Idiom](/Images/Introduction.png "Illustration of Emoji2Idiom")
