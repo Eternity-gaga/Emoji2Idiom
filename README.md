@@ -2,7 +2,7 @@
 🧐 📚 🏆 Can MLLMs Derive Abstract Linguistic Semantics from Images?
 🤗 🔥 🔥 The novel benchmark for MLLMs focuses on emoji understanding! 🔥
 
-## Introduction of Emoji2Idiom
+## Introduction of eWe-bench
 🤗 🔥 🔥 🔥 Vision and Language are two major modalities in Artificial Intelligence research.
 
 🤔 How to bridge the gap between vision and language has always been the goal of researchers in the multimodal community.
